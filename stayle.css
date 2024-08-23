@@ -1,0 +1,205 @@
+
+
+.de{height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    background-color: rgb(128, 0, 128);
+    gap: 10px;
+}    
+.sino{display: flex;
+    align-items: start;
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.dd{ height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+background-color: purple;
+gap: 10px;
+}
+.sin{ 
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+    gap: 10px;
+}
+.ed{height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+background-color: purple;
+gap: 10px;
+}
+.si{  height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.ded{
+display: flex;
+
+    background-color: purple;
+width: 200px;
+height: 200px;
+border-radius: 3px;
+gap: 10px
+;
+
+}
+.sinok{
+    height: 40px;
+width: 40px;
+background-color: orange;
+border: 1px solid;
+border-radius: 5px;
+
+}
+.bobo{
+display: flex;
+justify-content:space-evenly;
+gap: 10px;
+}
+.sino{
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+.ee{ width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: right;
+    gap: 10px;
+background-color: purple;
+}
+
+.so{
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.ss{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    gap: 10px;
+background-color: purple;
+}
+
+.sin2{
+
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.otas{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+background-color: purple;
+gap: 10px;
+}
+.cc{
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.otash{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+background-color: purple;
+gap: 10px;
+}
+.kk{
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.pp{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+background-color: purple;
+}
+
+.sin3{
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.ii{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: end;
+    gap: 10px;
+background-color: purple;
+}
+
+.oo{
+    height: 40px;
+    width: 40px;
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
